@@ -13,8 +13,11 @@ __Links:__
 * [AutoDoc Datasheet][autodoc]
 * [Specifications][spec]
 * [Store Page][store]
+* [Schematics and Layout][hardware]
 
 [thumbnail]: https://d3iwea566ns1n1.cloudfront.net/images/product/40edad650346ab020427c20a98565f45689e575a.png
 [autodoc]: PKG900000001464_AutoDoc.pdf
 [spec]: PKG900000001464_SpecSheet.pdf
 [store]: https://store.gumstix.com/cm4-uprev-ai/
+[hardware]: hardware/hardware.md
+[firmware]: firmware/firmware.md
